@@ -1,16 +1,16 @@
-package myArrays;
+// package myArrays;
 
-import java.util.*;
+// import java.util.*;
 
-public class Basics {
-    public static void main(String args[]){
-        Scanner op = new Scanner(System.in);
-        int n = op.nextInt();
-        int arr[] = new int[n];
+// public class Basics {
+//     public static void main(String args[]){
+//         Scanner op = new Scanner(System.in);
+//         int n = op.nextInt();
+//         int arr[] = new int[n];
 
-        for(int i=0;i<n;i++){
-            arr[i]=op.nextInt();
-        }
+//         for(int i=0;i<n;i++){
+//             arr[i]=op.nextInt();
+//         }
         
 
         // //forward
@@ -78,6 +78,6 @@ public class Basics {
 
 
 
-    }
+//     }
     
-}
+// }
