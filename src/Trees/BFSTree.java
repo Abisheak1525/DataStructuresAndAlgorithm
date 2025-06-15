@@ -26,10 +26,7 @@ public class BFSTree {
     }
 
     private TreeNode insertRec(TreeNode root, int value) {
-        if (root == null) {
-            root = new TreeNode(value);
-            return root;
-        }
+        if (root == null) return new TreeNode(value);
         
         if (value < root.val) {
             root.left = insertRec(root.left, value);

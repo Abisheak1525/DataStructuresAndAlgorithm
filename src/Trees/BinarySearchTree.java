@@ -86,7 +86,7 @@ public class BinarySearchTree {
 
     private int countNodesRec(TreeNode node) {
         if (node == null) {
-            return 0; // Base case: return 0 for null nodes
+            return 0; 
         }
         int leftCount = countNodesRec(node.left);
         int rightCount = countNodesRec(node.right);

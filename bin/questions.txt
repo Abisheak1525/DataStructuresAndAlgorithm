@@ -1,0 +1,32 @@
+1. Reverse a Linked List
+Problem: Reverse a singly linked list.
+Link: Reverse Linked List
+Description: Given the head of a singly linked list, reverse the list, and return the reversed list.
+2. Binary Tree Inorder Traversal
+Problem: Perform an inorder traversal of a binary tree recursively.
+Link: Binary Tree Inorder Traversal
+Description: Given the root of a binary tree, return the inorder traversal of its nodes' values.
+3. Climbing Stairs
+Problem: Determine how many distinct ways you can climb to the top of a staircase.
+Link: Climbing Stairs
+Description: You are climbing a staircase with n steps. Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
+4. Generate Parentheses
+Problem: Generate all combinations of well-formed parentheses.
+Link: Generate Parentheses
+Description: Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
+5. Permutations
+Problem: Given an array of distinct integers, return all possible permutations.
+Link: Permutations
+Description: Given an array of distinct integers, return all possible permutations.
+6. Maximum Depth of Binary Tree
+Problem: Find the maximum depth of a binary tree.
+Link: Maximum Depth of Binary Tree
+Description: Given the root of a binary tree, return its maximum depth.
+7. Sum Root to Leaf Numbers
+Problem: Given a binary tree, find the sum of all numbers formed by root-to-leaf paths.
+Link: Sum Root to Leaf Numbers
+Description: Each root-to-leaf path represents a number. Calculate the total sum of all such numbers.
+8. Unique Paths
+Problem: Find the number of unique paths in a grid.
+Link: Unique Paths
+Description: A robot is located at the top-left corner of a m x n grid and can only move down or right. How many unique paths are there to the bottom-right corner?

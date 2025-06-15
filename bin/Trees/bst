@@ -1,0 +1,43 @@
+✅ What is a BST
+
+✅ BST insertion, search, and deletion
+
+✅ Inorder / Preorder / Postorder traversal
+
+✅ Min and Max in BST
+
+✅ Floor and Ceil of a value
+
+✅ Predecessor and Successor in BST
+
+✅ Kth smallest / largest in BST
+
+✅ Lowest Common Ancestor (LCA) using BST properties
+
+✅ Convert sorted array to BST
+
+✅ Convert BST to doubly linked list
+
+✅ Recover BST (when 2 nodes are swapped)
+
+✅ Range Sum Query in BST
+
+✅ Trim BST to [low, high] range
+
+✅ Binary Tree to BST (rearrange values only)
+
+✅ Validate if a tree is a BST
+
+✅ Serialize and Deserialize BST (optimize for BST)
+
+✅ Balanced BSTs (AVL, Red-Black Trees – theory only)
+
+✅ Largest BST in a binary tree
+
+✅ BST Iterator (in-order with O(h) space)
+
+✅ BST + DP / Greedy / Segment Tree
+
+✅ BST with duplicates
+
+✅ Edge case handling (null children, skewed tree, large ranges)

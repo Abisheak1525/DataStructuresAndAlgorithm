@@ -11,6 +11,7 @@ class CustomStack {
         stackArray = new int[maxSize];
         top = -1;
     }
+    
 
     public void push(int value) {
         if (top == maxSize - 1) {
