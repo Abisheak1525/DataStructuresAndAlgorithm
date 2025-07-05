@@ -7,6 +7,7 @@
     ],
     "java.debug.settings.onBuildFailureProceed": true,
     "cSpell.words": [
+        "topo",
         "Topologicalsort"
     ]
 }
